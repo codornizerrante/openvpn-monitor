@@ -8,6 +8,8 @@ status of an OpenVPN server, including all current connections. It uses the
 OpenVPN management console. It typically runs on the same host as the OpenVPN
 server, however it does not necessarily need to.
 
+This fork aims to expand the monitor's capabilities, enabling the generation and management of certificates... oh, wait, but then it wouldn't be just a monitor anymore 🤔
+
 [![](https://raw.githubusercontent.com/furlongm/openvpn-monitor/gh-pages/screenshots/openvpn-monitor.png)](https://raw.githubusercontent.com/furlongm/openvpn-monitor/gh-pages/screenshots/openvpn-monitor.png)
 
 
